@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C++, Python, C, HTML & CSS, MySql**
+- 💬 Ask me about **C++, Python, C, HTML & CSS, MySql, Shell Script**
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
