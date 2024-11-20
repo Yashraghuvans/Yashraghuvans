@@ -13,9 +13,9 @@
 
 </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ & Swift**
 
-- 💬 Ask me about **C++, Python, C, HTML & CSS, MySql, Shell Script**
+- 💬 Ask me about **C++, Python, C, HTML & CSS, MySql, Shell Script, Swift**
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
