@@ -8,14 +8,11 @@
 <p>
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-1082hrs%2080%20mins-blue)
-  
-  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.85%20million%20lines%20of%20code-blue)
-
 </p>
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C++, Python, C, Shell Script**
+- 💬 Ask me about **C++, Python**
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
