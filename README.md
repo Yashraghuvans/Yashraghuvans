@@ -41,7 +41,7 @@
 
 <fieldset>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraghuvans&show_icons=true&locale=en&layout=compact" alt="yashraghuvans" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&show_icons=true&locale=en" alt="yashraghuvans" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraghuvans&" alt="yashraghuvans" /></p>
+
 </fieldset>
 
 <br><br>
