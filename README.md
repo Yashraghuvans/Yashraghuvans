@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=Profile%20views&color=0e75b6&style=flat" alt="yashraghuvans" /> </p>
 <p>
   
-  ![Code Time](http://img.shields.io/badge/Code%20Time-2002hrs%2080%20mins-blue)
+  ![Code Time](http://img.shields.io/badge/Code%20Time-2122hrs%2080%35mins-blue)
 </p>
 
 - 🌱 I’m currently learning **C++**
