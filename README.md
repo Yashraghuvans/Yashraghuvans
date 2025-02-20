@@ -15,15 +15,19 @@
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashraghu2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashraghu2006" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/yash-raghuvanshi-a14361287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-raghuvanshi-a14361287/" height="30" width="40" /></a>
-<a href="https://instagram.com/yashraghuvanshi1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashraghuvanshi1112" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashraghuvans" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraghuvans" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashraguzgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashraguzgo" height="30" width="40" /></a>
-</p>
+<hr>
+
+### 🌐 **GLOBAL CONNECTIVITY**
+
+<br>
+
+<a href="https://twitter.com/yashraghu2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashraghu2006" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="http://www.linkedin.com/in/yash-raghuvanshi-a14361287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-raghuvanshi-a14361287/" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://instagram.com/yashraghuvanshi1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashraghuvanshi1112" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://www.hackerrank.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashraghuvans" height="30" width="40" /></a>&nbsp; &nbsp;
+<a href="https://www.leetcode.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraghuvans" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/yashraguzgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashraguzgo" height="30" width="40" /></a>&nbsp; &nbsp;
+
 <br>
 
 ---
@@ -45,25 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
 </div>
 
-<br>
-
----
-
-<br>
-
-## 🌐 **GLOBAL CONNECTIVITY**
-
-### 📡 **Professional Networks**
-
-<div>
-  <a href="https://www.linkedin.com/in/yash-raghuvanshi-a14361287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:yashraghuvans@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
 <br>
 
 ---
