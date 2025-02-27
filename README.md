@@ -43,7 +43,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
