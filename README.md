@@ -53,21 +53,33 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=yashraghuvans&theme=radical&hide_border=false)
+   
 </div>
 
 <br>
 
 ---
 
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=yashraghuvans&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 <br>
 
-# Trophy
+---
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=yashraghuvans&theme=onedark&column=-1" />
-</p>
-<br>
 
+## 🏆 GitHub Trophies
+
+<div align='center'>
+  
+![](https://github-profile-trophy.vercel.app/?username=yashraghuvans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 <p>
 <br><br><hr><br><br>
@@ -82,4 +94,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=900&section=footer"/>
 </p>
-
