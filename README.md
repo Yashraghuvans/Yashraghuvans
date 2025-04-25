@@ -1,8 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
 
 <h1 align="center">Hi 👋, I'm Yash Raghuvanshi</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp">
+<img align="right" alt="Coding" width="500" height="300" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=Profile%20views&color=0e75b6&style=flat" alt="yashraghuvans" /> </p>
 <p>
@@ -10,9 +10,9 @@
   ![Code Time](http://img.shields.io/badge/Code%20Time-3272hrs%205%35mins-blue)
 </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently at **YNV Solutions** as **Full Stack Developer**
 
-- 💬 Ask me about **C++, Python, Swift UI**
+- 💬 Ask me about **C++, Python, Swift, Koltin**
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
