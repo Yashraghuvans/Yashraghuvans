@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yash Raghuvanshi</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
-<img align="right" alt="Coding" width="500" height="300" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=Profile%20views&color=0e75b6&style=flat" alt="yashraghuvans" /> </p>
 <p>
@@ -73,11 +73,7 @@
 </div>
 
 <p>
-<br><br><hr><br><br>
-  
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
+<br>
 <hr>
 
 
