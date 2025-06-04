@@ -83,7 +83,7 @@ struct ExperienceView_Previews: PreviewProvider {
         ExperienceView(experience: Experience(
             title: "iOS & Full-Stack Developer Intern",
             company: "YNV Solutions",
-            duration: "June 2025 - Present",
+            duration: "Feburary 2025 - Present",
             responsibilities: [
                 "Developing intuitive iOS features using SwiftUI and Combine.",
                 "Implementing RESTful APIs for mobile-backend communication.",
