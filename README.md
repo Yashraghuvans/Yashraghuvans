@@ -87,7 +87,7 @@ struct ExperienceView_Previews: PreviewProvider {
             responsibilities: [
                 "Developing intuitive iOS features using SwiftUI and Combine.",
                 "Implementing RESTful APIs for mobile-backend communication.",
-                "Contributing to database schema
+                "Contributing to database schema"
                 "Participating in code reviews and agile development sprints."
             ]
         ))
