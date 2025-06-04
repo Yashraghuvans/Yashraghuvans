@@ -76,7 +76,27 @@
 <br>
 <hr>
 
+```swift
 
+struct ExperienceView_Previews: PreviewProvider {
+    static var previews: some View {
+        ExperienceView(experience: Experience(
+            title: "iOS & Full-Stack Developer Intern",
+            company: "YNV Solutions",
+            duration: "June 2025 - Present",
+            responsibilities: [
+                "Developing intuitive iOS features using SwiftUI and Combine.",
+                "Implementing RESTful APIs for mobile-backend communication.",
+                "Contributing to database schema
+                "Participating in code reviews and agile development sprints."
+            ]
+        ))
+        .previewLayout(.sizeThatFits)
+        .padding()
+    }
+}
+
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=900&section=footer"/>
