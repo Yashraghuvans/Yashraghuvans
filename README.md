@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **yashraghuvans@gmail.com**
 
+- 👨🏻‍💻 My Portfolio is [Yashfolio](https://yashfolio-zeta.vercel.app)
+
 <hr>
 
 ### 🌐 **GLOBAL CONNECTIVITY**
@@ -24,7 +26,6 @@
 
 <a href="https://twitter.com/yashraghu2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashraghu2006" height="30" width="40" /></a> &nbsp; &nbsp;
 <a href="http://www.linkedin.com/in/yash-raghuvanshi-a14361287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-raghuvanshi-a14361287/" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://instagram.com/yashraghuvanshi1112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashraghuvanshi1112" height="30" width="40" /></a>&nbsp; &nbsp;
 <a href="https://www.hackerrank.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashraghuvans" height="30" width="40" /></a>&nbsp; &nbsp;
 <a href="https://www.leetcode.com/yashraghuvans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashraghuvans" height="30" width="40" /></a> &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/yashraguzgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashraguzgo" height="30" width="40" /></a>&nbsp; &nbsp;
