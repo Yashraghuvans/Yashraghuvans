@@ -1,4 +1,4 @@
-![MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Yash Raghuvanshi</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
