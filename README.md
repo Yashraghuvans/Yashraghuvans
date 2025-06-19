@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=Profile%20views&color=0e75b6&style=flat" alt="yashraghuvans" /> </p>
 <p>
   
-  ![Code Time](http://img.shields.io/badge/Code%20Time-3272hrs%205%35mins-blue)
+  ![Code Time](http://img.shields.io/badge/Code%20Time-5272hrs%202%35mins-blue)
 </p>
 
 - 🌱 I’m currently at **YNV Solutions** as **Full Stack Developer**
