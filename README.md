@@ -67,25 +67,20 @@
 
 
 ## 🏆 GitHub Trophies
-
-<div align='center'>
   
-![](https://github-profile-trophy.vercel.app/?username=yashraghuvans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
+![torphies](https://github-profile-trophy.vercel.app/?username=yashraghuvans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>
+
 <br>
 <hr>
 
 ```swift
 
-struct ExperienceView_Previews: PreviewProvider {
+struct Expert_Previews: PreviewProvider {
     static var previews: some View {
-        ExperienceView(experience: Experience(
-            title: "iOS & Full-Stack Developer Intern",
-            company: "YNV Solutions",
-            duration: "Feburary 2025 - Present",
-            responsibilities: [
+        ExpertView(expert: Expert(
+            title: "iOS & Full-Stack Developer"
+            abilities: [
                 "Developing intuitive iOS features using SwiftUI and Combine.",
                 "Implementing RESTful APIs for mobile-backend communication.",
                 "Contributing to database schema"
