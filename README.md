@@ -79,7 +79,7 @@
 struct Expert_Previews: PreviewProvider {
     static var previews: some View {
         ExpertView(expert: Expert(
-            title: "iOS & Full-Stack Developer"
+            title: "iOS & Full-Stack Developer",
             abilities: [
                 "Developing intuitive iOS features using SwiftUI and Combine.",
                 "Implementing RESTful APIs for mobile-backend communication.",
