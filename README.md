@@ -1,5 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=100&duration=3000&lines=While+others+program+AI!;I+program+its+future!" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Yash Raghuvanshi</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
@@ -48,6 +52,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
 
+<br>
+
+# Operating System
+<img align="center" src="https://skillicons.dev/icons?i=windows,ubuntu,kali&perline=14" />
+
 ---
 
 <br>
@@ -58,7 +67,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
   
   ![](https://nirzak-streak-stats.vercel.app/?user=yashraghuvans&theme=radical&hide_border=false)
-   
+
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashraghuvans&theme=radical&utcOffset=8" alt="yashraghuvans" />
+</p>
 </div>
 
 <br>
@@ -67,32 +81,17 @@
 
 
 ## 🏆 GitHub Trophies
+<h1 align="center">
   
 ![torphies](https://github-profile-trophy.vercel.app/?username=yashraghuvans&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</h1>
 
 <br>
-<hr>
 
-```swift
-
-struct Expert_Previews: PreviewProvider {
-    static var previews: some View {
-        ExpertView(expert: Expert(
-            title: "iOS & Full-Stack Developer",
-            abilities: [
-                "Developing intuitive iOS features using SwiftUI and Combine.",
-                "Implementing RESTful APIs for mobile-backend communication.",
-                "Contributing to database schema"
-                "Participating in code reviews and agile development sprints."
-            ]
-        ))
-        .previewLayout(.sizeThatFits)
-        .padding()
-    }
-}
-
-```
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=120&duration=4000&lines=If+you+can+dream+it,;you+can+code+it.;And+if+you+can+code+it,+let's+connect." />
+</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=900&section=footer"/>
