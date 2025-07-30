@@ -63,16 +63,15 @@
 
 # 📊 GitHub Status:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashraghuvans&theme=radical&utcOffset=8" alt="yashraghuvans" />
-  
-  <br> <br>
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=yashraghuvans&theme=radical&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
+  <br><br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashraghuvans&theme=radical" alt="Repos per Language" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashraghuvans&theme=radical" alt="Most Commit Language" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashraghuvans&theme=radical" alt="GitHub Stats Card" />
+  <br><br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashraghuvans&theme=radical&utcOffset=8" alt="Productive Time" />
+  <br><br> <img src="https://nirzak-streak-stats.vercel.app/?user=yashraghuvans&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 <br>
