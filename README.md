@@ -63,8 +63,8 @@
 
 # 📊 GitHub Status:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashraghuvans&theme=radical" alt="yashraghuvans" />
