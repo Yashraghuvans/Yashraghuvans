@@ -21,8 +21,8 @@ I'm a passionate Software Engineer with a knack for building robust and scalable
 </p>
 
 - 🔭 I’m currently working as a **Full Stack Developer** at **YNV Solutions**.
+- 👨‍💻 I'm also working as **SDE** at **EaziCore**.
 - 🌱 I’m currently exploring **Advanced iOS Development & DevOps practices**.
-- 💬 Ask me about **React, Next.js, Swift, SwiftUI, Firebase, and C++**.
 - 📫 How to reach me: **yashraghuvans@gmail.com**
 - 👨‍💻 My Portfolio: **[yashfolio-zeta.vercel.app](https://yashfolio-zeta.vercel.app)**
 
