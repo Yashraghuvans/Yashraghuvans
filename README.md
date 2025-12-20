@@ -24,7 +24,7 @@ I'm a passionate Software Engineer with a knack for building robust and scalable
 - 👨‍💻 I'm also working as **SDE** at **EaziCore**.
 - 🌱 I’m currently exploring **Advanced iOS Development & DevOps practices**.
 - 📫 How to reach me: **yashraghuvans@gmail.com**
-- 👨‍💻 My Portfolio: **[yashfolio-zeta.vercel.app](https://yash-engine.vercel.app)**
+- 👨‍💻 My Portfolio: **[Live](https://yash-engine.vercel.app)**
 
 <br>
 <h2 align="center">Connect with Me</h3>
