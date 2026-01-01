@@ -134,27 +134,23 @@ const yash = {
 
 <br>
 
+## 💎 Engineering Highlights
+
+| Project & Scope | Architecture & Tech Stack | Lifecycle & Links |
+| :--- | :--- | :--- |
+| **☁️ AssetFlow-Pro**<br><sub>*Enterprise Asset Management (EAM)*</sub><br><br>An enterprise-grade system for tracking asset lifecycle, automated depreciation logic, and maintenance scheduling. | ![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00a1e0?style=flat-square&logo=salesforce&logoColor=white)<br>![Apex](https://img.shields.io/badge/Apex-Backend_Logic-ff1493?style=flat-square&logo=salesforce&logoColor=white) ![LWC](https://img.shields.io/badge/LWC-Frontend-00ced1?style=flat-square&logo=lightning&logoColor=white)<br>![SOQL](https://img.shields.io/badge/SOQL-Data_Query-7F54B3?style=flat-square) ![Flow](https://img.shields.io/badge/Flow-Automation-0B5CAB?style=flat-square) | **🟢 Open Source**<br><br>[🔗 View Code](https://github.com/Yashraghuvans/AssetFlow-Pro/tree/main) |
+| **🎗️ SwiftCause Ecosystem**<br><sub>*Cross-Platform Donation Engine*</sub><br><br>A dual-interface platform connecting UK Nonprofits with donors. Features a native iOS donor app and a responsive Next.js admin dashboard. | ![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS_Native-ff1493?style=flat-square&logo=swift&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-Admin_Panel-000000?style=flat-square&logo=next.js&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-Strict_Typing-00ced1?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-Backend_aaS-ffca28?style=flat-square&logo=firebase&logoColor=black)<br>![Google Cloud](https://img.shields.io/badge/Google_Cloud-Functions-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | **🟢 Production Ready**<br><br>[📱 View iOS](https://github.com/Yashraghuvans/Swift_Cause_IOS) <br> [💻 View Web](https://github.com/Yashraghuvans/SwiftCause_Web) |
+| **🤖 Gen-AI Labs**<br><sub>*AI & Computer Vision Research*</sub><br><br>Experimental repository for LLM integration and Vision models. Includes real-time video segmentation and prompt engineering pipelines. | ![Python](https://img.shields.io/badge/Python-Core_Logic-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Comp_Vision-ff1493?style=flat-square)<br>![OpenCV](https://img.shields.io/badge/OpenCV-Img_Proc-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)<br>![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-00ced1?style=flat-square) | **🔵 Active Research**<br><br>[🔗 View Lab](https://github.com/Yashraghuvans/Generative-AI) |
+| **💸 FinFlow**<br><sub>*Fintech Analytics Dashboard*</sub><br><br>Analytics-heavy platform for tracking loan disbursements and builder payments. Features complex data visualization. | ![React](https://img.shields.io/badge/React-UI_Library-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-API_Server-339933?style=flat-square&logo=node.js&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_DB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-Analytics-ff6384?style=flat-square&logo=chartdotjs&logoColor=white) | **🟢 Completed**<br><br>[🔗 View Code](https://github.com/Yashraghuvans/FinFlow) |
+
+<br/>
+
 ## 📈 GitHub Analytics
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=ff1493&line=00ced1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 <br>
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yash-raghuvanshi-a14361287)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashraghu2006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/yashraghuvans)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yashraghuvans)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yashraguzgo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-engine.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraghuvans@gmail.com)
-
-</div>
-
-<br>
 
 ## 🎯 Current Focus
 
@@ -217,6 +213,22 @@ graph LR
 </div>
 <br/>
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yash-raghuvanshi-a14361287)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashraghu2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/yashraghuvans)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yashraghuvans)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yashraguzgo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-engine.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraghuvans@gmail.com)
+
+</div>
+
+<br>
+    
 ---
 
 <div align="center">
