@@ -135,8 +135,6 @@ const yash = {
 <br>
 
 ## 📈 GitHub Analytics
-
-
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=ff1493&line=00ced1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
@@ -210,8 +208,14 @@ graph LR
     classDef learning fill:#fff3cd,stroke:#ffe680,stroke-width:2px,color:#856404,rx:5px,ry:5px;
 ```
 </div>
-
 <br>
+
+## 🏆 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashraghuvans&theme=gotham" alt="Yash's GitHub Summary" width="100%" />
+</div>
+<br/>
 
 ---
 
