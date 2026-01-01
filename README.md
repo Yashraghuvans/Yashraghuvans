@@ -1,8 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B008B,50:FF1493,100:00CED1&height=200&section=header&text=YASH%20RAGHUVANSHI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
+</div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/CODE%20TIME-2272hrs%2002mins-FF1493?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Time">
+
+</div>
+<div align="center">
+
+![Snake animation](https://github.com/yashraghuvans/yashraghuvans/blob/output/github-contribution-grid-snake-dark.svg)
+    
 </div>
 
 <br>
@@ -11,24 +21,24 @@
 
 ```typescript
 const yash = {
-    role: ["Full Stack Developer @ YNV Solutions", "SDE @ EaziCore"],
+    role: [
+        "Salesforce Product Architect @ EaziCore",
+        "Ex-Full Stack Intern @ YNV Solutions"
+    ],
     location: "India 🇮🇳",
-    code: ["TypeScript", "Swift", "Kotlin", "Python", "Java", "C++"],
-    focus: ["iOS Development", "Android Apps", "Web3", "DevOps"],
-    motto: "Code. Create. Innovate. Repeat.",
-    currentlyExploring: "Advanced iOS Development & Cloud Architecture",
+    code: ["Apex", "TypeScript", "Swift", "Kotlin", "C++", "Python"],
+    focus: [
+        "Salesforce Ecosystem (CRM & SFS)",
+        "iOS Development",
+        "System Architecture",
+        "DevOps"
+    ],
+    motto: "Architecting Scalable Solutions.",
+    currentlyExploring: "Enterprise Cloud Patterns & Advanced iOS",
     portfolio: "https://yash-engine.vercel.app"
 };
 ```
 
-<div align="center">
-
-### 📊 Profile Analytics
-
-<img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/CODE%20TIME-2272hrs%2002mins-FF1493?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Time">
-
-</div>
 
 <br>
 
@@ -126,10 +136,7 @@ const yash = {
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashraghuvans&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak" />
-</div>
-<br>
+
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=ff1493&line=00ced1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
@@ -156,26 +163,52 @@ const yash = {
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Yash))
-    Mobile Development
-      iOS/SwiftUI
-      Android/Kotlin
-      Cross-Platform
-    Web Development
-      React/Next.js
-      TypeScript
-      Full-Stack
-    Cloud & DevOps
-      Firebase
-      GCP
-      CI/CD
-    Learning
-      Advanced iOS
-      System Design
-      Cloud Architecture
-```
+graph LR
+    %% Central Node
+    Root((Yash)):::root
 
+    %% LEFT SIDE (Foundational Engineering)
+    %% Arrows point TO Yash to force them Left
+    Mob(Mobile Dev):::mobile --> Root
+    Web(Web Dev):::web --> Root
+
+    %% RIGHT SIDE (Professional & Architecture)
+    %% Arrows point FROM Yash to force them Right
+    Root --> SF(Salesforce Arch):::salesforce
+    Root --> Cloud(Cloud & DevOps):::cloud
+
+    %% BOTTOM / CENTER (Strategic Focus)
+    %% Linked specifically to appear distinct
+    Root -.-> Learn(Strategic Focus):::learning
+
+    %% --- DETAILS (Vertical lists attached to branches) ---
+    
+    %% Left Branch Details
+    Mob --- M1(iOS/SwiftUI):::mobile
+    M1 --- M2(Android/Kotlin):::mobile
+    
+    Web --- W1(Next.js / React):::web
+    W1 --- W2(TypeScript):::web
+
+    %% Right Branch Details
+    SF --- S1(CRM & SFS):::salesforce
+    S1 --- S2(Apex & LWC):::salesforce
+
+    Cloud --- C1(Firebase):::cloud
+    C1 --- C2(GCP / CI/CD):::cloud
+
+    %% Bottom Branch Details
+    Learn --- L1(System Design):::learning
+    L1 --- L2(Cloud Arch):::learning
+
+    %% Charming Color Palette
+    classDef root fill:#ffdd99,stroke:#e6b800,stroke-width:3px,color:#4d3d00,rx:15px,ry:15px;
+    classDef salesforce fill:#ffccd5,stroke:#ff6680,stroke-width:2px,color:#800020,rx:5px,ry:5px;
+    classDef mobile fill:#cce5ff,stroke:#66b2ff,stroke-width:2px,color:#004080,rx:5px,ry:5px;
+    classDef web fill:#d4edda,stroke:#82c998,stroke-width:2px,color:#155724,rx:5px,ry:5px;
+    classDef cloud fill:#eaddff,stroke:#c4a7ff,stroke-width:2px,color:#4a0080,rx:5px,ry:5px;
+    classDef learning fill:#fff3cd,stroke:#ffe680,stroke-width:2px,color:#856404,rx:5px,ry:5px;
+```
 </div>
 
 <br>
@@ -183,15 +216,5 @@ mindmap
 ---
 
 <div align="center">
-
-### 💭 *"The only way to do great work is to love what you do"*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B008B,50:FF1493,100:00CED1&height=120&section=footer" width="100%"/>
-
-**Made with 💜 by Yash Raghuvanshi**
-
-<br><br>
-
-![Snake animation](https://github.com/yashraghuvans/yashraghuvans/blob/output/github-contribution-grid-snake-dark.svg)
-
 </div>
