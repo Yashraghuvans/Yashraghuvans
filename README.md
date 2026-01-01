@@ -127,16 +127,12 @@ const yash = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00CED1&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=yashraghuvans&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=yashraghuvans&theme=tokyonight&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak" />
 </div>
-
 <br>
-
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=ff1493&line=00ced1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
-
 <br>
 
 ## 🤝 Connect With Me
@@ -196,10 +192,6 @@ mindmap
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashraghuvans/yashraghuvans/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashraghuvans/yashraghuvans/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yashraghuvans/yashraghuvans/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/yashraghuvans/yashraghuvans/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
