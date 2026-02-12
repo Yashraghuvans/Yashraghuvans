@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B008B,50:FF1493,100:00CED1&height=200&section=header&text=YASH%20RAGHUVANSHI&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D60,50:00A1E0,100:0A192F&height=200&section=header&text=YASH%20RAGHUVANSHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Developer%20%7C%20CRM%20Architect%20%7C%20Enterprise%20System%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/CODE%20TIME-2272hrs%2002mins-FF1493?style=for-the-badge&logo=wakatime&logoColor=white" alt="Code Time">
+<img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=00a1e0&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Salesforce-Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 <div align="center">
