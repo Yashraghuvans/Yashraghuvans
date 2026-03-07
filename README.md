@@ -26,17 +26,40 @@
 
 ## 🛠️ Domain & Technical Arsenal
 
-<div align="center">
-
-| 🏗️ EAM Core Functional Pillars | ☁️ Salesforce Architecture |
-| :--- | :--- |
-| ![Work Order](https://img.shields.io/badge/Work_Order-Execution_Mgmt-f44336?style=for-the-badge) <br> ![Job Plan](https://img.shields.io/badge/Job_Plan-Standardization-ff9800?style=for-the-badge) <br> ![Service Request](https://img.shields.io/badge/Service_Request-Intake-2196f3?style=for-the-badge) <br> ![Maint Cycle](https://img.shields.io/badge/Maint_Cycle-PM_Automation-4caf50?style=for-the-badge) | ![Apex](https://img.shields.io/badge/Apex-Async_%26_Patterns-ff1493?style=flat-square&logo=salesforce) <br> ![Flow](https://img.shields.io/badge/Flow-Advanced_Orchestration-0B5CAB?style=flat-square&logo=salesforce) <br> ![Data Model](https://img.shields.io/badge/Security-Sharing_%26_Permissions-005FB2?style=flat-square) <br> ![Deployment](https://img.shields.io/badge/Ghost_Deployment-Strategy-00A1E0?style=flat-square) |
-
-| 💻 Web & Integration | 🚀 DevOps & Leadership |
-| :--- | :--- |
-| ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_JS-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br> ![LWC](https://img.shields.io/badge/LWC-Custom_UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Jira](https://img.shields.io/badge/Jira-Sprint_Planning-0052CC?style=flat-square&logo=jira) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-000000?style=flat-square&logo=github-actions) <br> ![Architect](https://img.shields.io/badge/Code_Review-Mentorship-purple?style=flat-square) ![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git) |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🏗️ EAM Core</h3>
+      <img src="https://img.shields.io/badge/Work_Order-Execution_Mgmt-f44336?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Job_Plan-Standardization-ff9800?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Service_Request-Intake-2196f3?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Maint_Cycle-PM_Automation-4caf50?style=for-the-badge">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>☁️ Salesforce</h3>
+      <img src="https://img.shields.io/badge/Apex-Async_%26_Patterns-ff1493?style=for-the-badge&logo=salesforce&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Flow-Advanced_Orchestration-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Security-Sharing_%26_Permissions-005FB2?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Ghost_Deployment-Strategy-00A1E0?style=for-the-badge">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>💻 Web & Integration</h3>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+      <img src="https://img.shields.io/badge/LWC-Custom_UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/Firebase-Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🚀 DevOps & Leadership</h3>
+      <img src="https://img.shields.io/badge/Jira-Sprint_Planning-0052CC?style=for-the-badge&logo=jira&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-000000?style=for-the-badge&logo=github-actions&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Code_Review-Mentorship-purple?style=for-the-badge"><br>
+      <img src="https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 <br>
 
