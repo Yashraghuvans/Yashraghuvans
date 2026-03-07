@@ -9,8 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=00a1e0&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Salesforce-Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
-<br/>
-
 [![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/yashraghuvans)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yash-raghuvanshi-a14361287)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-engine.vercel.app)
@@ -41,40 +39,6 @@
 </div>
 
 <br>
-
-## 🎯 Architectural Focus
-
-<div align="center">
-
-```mermaid
-graph TD
-    %% Central Node
-    Root((Yash)):::root
-
-    %% EAM Pillar
-    Root ==> EAM(EAM Product Architecture):::salesforce
-    EAM --> SR(Service Request Life Cycle):::sub
-    EAM --> JP(Job Plan & Task Templates):::sub
-    EAM --> WO(Work Order Management):::sub
-    EAM --> MC(Maintenance Cycles & PM):::sub
-    
-    %% Technical Pillar
-    Root --> Tech(System Design):::leadership
-    Tech --> Ghost(Ghost Deployments):::sub
-    Tech --> Bulk(Bulk Asset Generation):::sub
-    Tech --> Hierarchy(Hybrid Asset Hierarchies):::sub
-
-    %% Styles
-    classDef root fill:#00A1E0,stroke:#ffffff,stroke-width:4px,color:#ffffff,rx:15px,ry:15px;
-    classDef salesforce fill:#032D60,stroke:#00A1E0,stroke-width:2px,color:#ffffff,rx:5px,ry:5px;
-    classDef leadership fill:#1a1a1a,stroke:#333333,stroke-width:2px,color:#cccccc,rx:5px,ry:5px;
-    classDef sub fill:#0d1117,stroke:#005FB2,stroke-width:1px,color:#999999,rx:5px,ry:5px;
-    
-    linkStyle 0 stroke:#00A1E0,stroke-width:4px;
-
-```
-
-</div>
 
 ## 🏆 Profile Summary
 
