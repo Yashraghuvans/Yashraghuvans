@@ -1,74 +1,117 @@
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D60,50:00A1E0,100:0A192F&height=200&section=header&text=YASH%20RAGHUVANSHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Salesforce%20Product%20Architect%20%7C%20EAM%20Specialist%20%7C%20System%20Designer&descAlignY=55&descSize=18" width="100%"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=yashraghuvans&label=Profile+Views&color=00A1E0&style=flat-square)](https://github.com/yashraghuvans)
+&nbsp;
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/yashraghuvans)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yash-raghuvanshi-a14361287)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yash-engine.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashraghuvans@gmail.com)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Salesforce Developer** with hands-on experience building scalable CRM solutions. I enjoy working across the full Salesforce stack — from designing automation flows and writing Apex triggers to building custom Lightning Web Components and integrating external systems via REST APIs.
+
+- 🔭 Currently working as a **Salesforce Developer**
+- ⚡ Focused on **Sales Cloud**, **Service Cloud**, **Apex**, **LWC**, and **Flow Automation**
+- 🔗 Passionate about **API Integrations** and clean architecture
+- 📚 Actively working toward **Salesforce Certifications**
+- 💬 Always happy to connect with fellow Trailblazers!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Salesforce Platform**
+
+![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Service Cloud](https://img.shields.io/badge/Service_Cloud-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1C5B8E?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flow](https://img.shields.io/badge/Flow_Automation-4caf50?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Dev Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SFDX](https://img.shields.io/badge/SFDX_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashraghuvans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraghuvans&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yashraghuvans&label=PROFILE+VIEWS&color=00a1e0&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Salesforce-Architect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-
-[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/yashraghuvans)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/yash-raghuvanshi-a14361287)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yash-engine.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraghuvans@gmail.com)
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=00A1E0&line=005FB2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
-<br>
+---
 
-## ☁️ About Me
+## 🚀 What I Build
 
-> **Salesforce Product Architect** specializing in **Enterprise Asset Management (EAM)**. I design end-to-end asset lifecycles—from Service Requests and Job Planning to Work Order execution and automated Maintenance Cycles. I bridge deep technical Apex/Flow knowledge with complex industrial maintenance logic.
+```
+✔  Custom Apex Classes & Triggers       →  Business logic, automation, batch jobs
+✔  Lightning Web Components (LWC)       →  Reusable, responsive UI on Salesforce
+✔  Flow & Process Automation            →  Screen flows, record-triggered flows, subflows
+✔  REST API Integrations                →  Connecting Salesforce with external systems
+✔  Admin Configuration                  →  Profiles, roles, permission sets, validation rules
+✔  Reports & Dashboards                 →  Data visibility for business teams
+```
 
-<br>
+---
 
-## 🛠️ Domain & Technical Arsenal
+## 🌱 Currently Learning
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🏗️ EAM Core</h3>
-      <img src="https://img.shields.io/badge/Work_Order-Execution_Mgmt-f44336?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Job_Plan-Standardization-ff9800?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Service_Request-Intake-2196f3?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Maint_Cycle-PM_Automation-4caf50?style=for-the-badge">
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>☁️ Salesforce</h3>
-      <img src="https://img.shields.io/badge/Apex-Async_%26_Patterns-ff1493?style=for-the-badge&logo=salesforce&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Flow-Advanced_Orchestration-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Security-Sharing_%26_Permissions-005FB2?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Ghost_Deployment-Strategy-00A1E0?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>💻 Web & Integration</h3>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-      <img src="https://img.shields.io/badge/LWC-Custom_UI-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/Firebase-Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🚀 DevOps & Leadership</h3>
-      <img src="https://img.shields.io/badge/Jira-Sprint_Planning-0052CC?style=for-the-badge&logo=jira&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-000000?style=for-the-badge&logo=github-actions&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/Code_Review-Mentorship-purple?style=for-the-badge"><br>
-      <img src="https://img.shields.io/badge/Git-VCS-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </td>
-  </tr>
-</table>
+- 📘 Preparing for **Salesforce Certified Administrator (ADM 201)**
+- 📗 Exploring **Platform Developer I** certification path
+- ⚙️  Deepening knowledge in **Asynchronous Apex** and **Integration Patterns**
 
-<br>
 
-## 🏆 Profile Summary
 
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=00A1E0&line=005FB2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Yash's Activity Graph"/>
-</div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B008B,50:FF1493,100:00CED1&height=120&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:00A1E0,100:032D60&height=100&section=footer" width="100%"/>
+
 </div>
