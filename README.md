@@ -16,7 +16,7 @@
 
 </div>
 
----
+<br/>
 
 ## 👋 About Me
 
@@ -28,11 +28,9 @@ I'm a **Salesforce Developer** with hands-on experience building scalable CRM so
 - 📚 Actively working toward **Salesforce Certifications**
 - 💬 Always happy to connect with fellow Trailblazers!
 
----
+<br/>
 
 ## 🛠️ Tech Stack & Skills
-
-**Salesforce Platform**
 
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -41,36 +39,24 @@ I'm a **Salesforce Developer** with hands-on experience building scalable CRM so
 ![Flow](https://img.shields.io/badge/Flow_Automation-4caf50?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Languages**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Frontend & Mobile**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-**Backend & Cloud**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Dev Tools**
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SFDX](https://img.shields.io/badge/SFDX_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -88,7 +74,7 @@ I'm a **Salesforce Developer** with hands-on experience building scalable CRM so
 
 </div>
 
----
+<br/>
 
 ## 🚀 What I Build
 
@@ -101,7 +87,7 @@ I'm a **Salesforce Developer** with hands-on experience building scalable CRM so
 ✔  Reports & Dashboards                 →  Data visibility for business teams
 ```
 
----
+<br/>
 
 ## 🌱 Currently Learning
 
