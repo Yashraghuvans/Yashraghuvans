@@ -34,35 +34,5 @@ Salesforce Developer focused on designing and delivering scalable CRM solutions 
 | **Web & Adjacent** | JavaScript, TypeScript, React, Next.js, Node.js, Python, C++, Firebase |
 | **Tooling** | SFDX CLI, Git, GitHub, VS Code, Bash |
 
-## Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-1C5B8E?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SOQL-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/SFDX_CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## The Grind
-
-<div align="center">
 
 
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashraghuvans&bg_color=0d1117&color=00A1E0&line=005FB2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-<div align="center">
-  <sub>Open to collaboration on Salesforce and full-stack projects — feel free to reach out.</sub>
-</div>
